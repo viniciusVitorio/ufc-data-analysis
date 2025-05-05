@@ -31,4 +31,4 @@ As seguintes visualizações foram geradas durante a análise e estão disponív
 * `tendencia_metodos_ano.png`: Gráfico de linhas mostrando a tendência dos tipos de vitória ao longo dos anos.
 
 ## Fonte dos Dados
-Os dados utilizados nesta análise foram obtidos do Ultimate UFC Dataset disponível no Kaggle. O conjunto reúne informações detalhadas de diversas lutas realizadas na história do UFC.
+Os dados utilizados nesta análise foram obtidos do Ultimate [UFC Dataset disponível na](https://www.kaggle.com/datasets/mdabbert/ultimate-ufc-dataset) [Kaggle](https://www.kaggle.com/) O conjunto reúne informações detalhadas de diversas lutas realizadas na história do UFC.
