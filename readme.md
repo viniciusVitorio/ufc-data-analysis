@@ -29,3 +29,6 @@ As seguintes visualizações foram geradas durante a análise e estão disponív
 * `metodos_por_ano.png`: Gráfico de barras empilhadas mostrando os métodos de vitória por ano.
 * `rounds_ko_sub.png`: Gráfico de barras mostrando a distribuição de nocautes e finalizações por round.
 * `tendencia_metodos_ano.png`: Gráfico de linhas mostrando a tendência dos tipos de vitória ao longo dos anos.
+
+## Fonte dos Dados
+Os dados utilizados nesta análise foram obtidos do Ultimate UFC Dataset disponível no Kaggle. O conjunto reúne informações detalhadas de diversas lutas realizadas na história do UFC.
