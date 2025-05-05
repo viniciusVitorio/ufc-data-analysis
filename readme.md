@@ -5,8 +5,7 @@ Este repositório contém uma análise exploratória de um conjunto de dados de 
 ## Conteúdo
 
 * **`data/`**: Contém o arquivo de dados principal `ufc-master.csv`.
-* **`images/`**: Contém as visualizações geradas durante a análise.
-* **`README.md`**: Este arquivo, fornecendo uma visão geral do projeto.
+* **`images/`**: Contém as visualizações geradas durante a análise
 * **`requirements.txt`**: Lista das bibliotecas Python necessárias para executar o código.
 
 ## Análise Realizada
