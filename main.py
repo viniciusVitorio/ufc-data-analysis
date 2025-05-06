@@ -60,7 +60,6 @@ weight_class_performance = df.groupby('WeightClassPt')['Finish'].value_counts().
 print("\nVitórias por Método de Vitória em Cada Categoria de Peso:")
 print(weight_class_performance)
 
-# Gráfico: Vitórias por método x categoria de peso
 weight_class_performance.plot(kind='bar', figsize=(12, 6), color=cores)
 plt.title('Vitórias por Método de Vitória em Cada Categoria de Peso', fontsize=16)
 plt.xlabel('Categoria de Peso')
